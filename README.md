@@ -92,7 +92,9 @@ Gantt charts assist in this process by:
  •Maintains market competitiveness.
  •Manages costs effectively.
 2:Effective Cost Control: 
-
+  •Anticipates and mitigates financial risks.
+  •Allows better fund allocation to critical areas.
+  •Ensures efficient resource usage.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
