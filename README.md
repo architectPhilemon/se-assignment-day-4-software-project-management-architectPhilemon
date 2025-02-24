@@ -111,3 +111,7 @@ My software solution is a digital tool or application designed to solve specific
 ## 12. What data is available regarding the market size and growth potential for your software?
 my software project will grow from ksh 200thousand to 1 million from 2025 to 2029
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends can inform my software’s positioning and development by:
+•Identifying emerging technologies and user preferences, which helps prioritize features that meet current demand.
+•Understanding competitor strategies, enabling differentiation and better market positioning.
+•Anticipating shifts in the market, allowing for proactive adjustments to maintain relevance and competitiveness.
