@@ -75,6 +75,11 @@ A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total sc
 •It enhances communication among team members and stakeholders.
 •It facilitates accurate estimation of costs, time, and resource requirements.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Developing a detailed project schedule offers several benefits:
+•Provides a clear timeline for the project, helping to track progress.
+•Enhances resource management by allocating tasks effectively.
+•Facilitates better communication among stakeholders by setting clear expectations.
+•Helps identify potential bottlenecks and risks early.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
