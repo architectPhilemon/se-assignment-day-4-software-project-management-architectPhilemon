@@ -80,6 +80,11 @@ Developing a detailed project schedule offers several benefits:
 •Enhances resource management by allocating tasks effectively.
 •Facilitates better communication among stakeholders by setting clear expectations.
 •Helps identify potential bottlenecks and risks early.
+Gantt charts assist in this process by:
+•Allowing easy tracking of project progress.
+•Visualizing the project timeline and task dependencies.
+•Making it easier to adjust schedules as needed and communicate changes.
+•Helping to identify critical paths and milestones.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
