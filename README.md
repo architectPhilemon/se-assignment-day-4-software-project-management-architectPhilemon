@@ -52,6 +52,11 @@ Agile might be more beneficial for projects where requirements are expected to c
 
 Waterfall might be more beneficial for projects with well-defined requirements and stages, where changes are minimal once the project is underway. Examples include construction projects, manufacturing processes, and projects with strict regulatory requirements.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods for ensuring quality assurance throughout a software project include:
+1:Code Reviews
+2:Continuous Integration/Continuous Deployment (CI/CD)
+3:Static Code Analysis
+4:Documentation
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
