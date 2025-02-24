@@ -39,6 +39,10 @@ Agile methodologies
 •Can be challenging to scale for larger projects. 
 waterfall methodologies 
      advantages 
+•Easier to measure progress through distinct phases.
+•Suitable for projects with well-defined requirements.
+•Clear documentation and well-defined stages.
+•Easy to understand and manage due to its structured nature.
      disadvantages 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
