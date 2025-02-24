@@ -87,6 +87,10 @@ Gantt charts assist in this process by:
 •Helping to identify critical paths and milestones.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 1:Timely Delivery: 
+ •Ensures client satisfaction.
+ •Allocates resources efficiently.
+ •Maintains market competitiveness.
+ •Manages costs effectively.
 2:Effective Cost Control: 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
