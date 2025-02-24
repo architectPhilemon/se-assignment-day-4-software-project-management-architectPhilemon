@@ -97,7 +97,7 @@ Gantt charts assist in this process by:
   •Ensures efficient resource usage.
 These problems are significant to the target audience because they directly impact the success and efficiency of software projects, leading to higher client satisfaction, better market positioning, and optimized use of resources.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+Clearly defining the problem helps in developing a more effective software solution by:
 •Enhancing communication and collaboration by providing a clear reference point for discussions and decisions.
 •Enabling better risk management by identifying potential challenges early.
 •Facilitating accurate requirement gathering, leading to a solution that directly addresses user needs.
