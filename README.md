@@ -57,6 +57,11 @@ Methods for ensuring quality assurance throughout a software project include:
 2:Continuous Integration/Continuous Deployment (CI/CD)
 3:Static Code Analysis
 4:Documentation
+Maintaining high standards is important because:
+•Ensures the final product meets user expectations and functions correctly. 
+•High-quality products lead to higher customer satisfaction and loyalty.
+•Identifying and fixing issues early reduces the cost of bug fixes and avoids expensive post-release problems.
+•Consistent delivery of high-quality products enhances the organization’s reputation and competitiveness
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
