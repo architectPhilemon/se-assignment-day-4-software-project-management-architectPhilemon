@@ -68,6 +68,12 @@ Defining the project scope is crucial for successful project planning because it
 2:Establishing what is included and excluded from the project.
 3:Aligning stakeholder expectations with project goals.
 4:Providing a basis for estimating costs, time, and resources required.
+
+•It helps in assigning tasks and responsibilities.
+•It breaks down complex projects into manageable sections.
+•It provides a clear path for tracking progress and performance.
+•It enhances communication among team members and stakeholders.
+•It facilitates accurate estimation of costs, time, and resource requirements.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
