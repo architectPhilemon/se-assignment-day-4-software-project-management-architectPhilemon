@@ -63,6 +63,11 @@ Maintaining high standards is important because:
 •Identifying and fixing issues early reduces the cost of bug fixes and avoids expensive post-release problems.
 •Consistent delivery of high-quality products enhances the organization’s reputation and competitiveness
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is crucial for successful project planning because it sets clear boundaries and deliverables for the project. It helps in:
+1:Preventing scope creep by providing a clear reference for what needs to be accomplished.
+2:Establishing what is included and excluded from the project.
+3:Aligning stakeholder expectations with project goals.
+4:Providing a basis for estimating costs, time, and resources required.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
