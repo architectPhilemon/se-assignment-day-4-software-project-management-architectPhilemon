@@ -44,6 +44,9 @@ waterfall methodologies
 •Clear documentation and well-defined stages.
 •Easy to understand and manage due to its structured nature.
      disadvantages 
+•Longer time to market due to sequential phases.
+•Inflexible to changes once the project is in later stages.
+•Limited customer feedback until the final product is delivered.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
