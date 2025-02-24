@@ -32,7 +32,11 @@ Agile methodologies
 •Enhanced team collaboration and communication.
 •Improved customer satisfaction through regular updates and feedback.
 •Continuous delivery of valuable software. 
-     disadvantages 
+     disadvantages
+•Risk of scope creep due to continuous changes.
+•Less predictable due to constant changes.
+•Requires significant time and commitment from stakeholders.
+•Can be challenging to scale for larger projects. 
 waterfall methodologies 
      advantages 
      disadvantages 
