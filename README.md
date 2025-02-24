@@ -24,6 +24,8 @@ strategies used to prevent budget overrun include
 4:Vendor Management: Negotiate contracts with clear terms and conditions to avoid unexpected costs.
 5:Stakeholder Communication: Maintain transparent communication with stakeholders to manage expectations and obtain timely approvals.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile is more flexible and adaptable to changes, while Waterfall is rigid and follows a strict sequence.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
