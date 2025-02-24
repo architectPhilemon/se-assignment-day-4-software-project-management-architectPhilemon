@@ -27,7 +27,11 @@ strategies used to prevent budget overrun include
 Agile is more flexible and adaptable to changes, while Waterfall is rigid and follows a strict sequence.
 Both approaches require documentation, although Agile focuses more on working software over extensive documentation. 
 Agile methodologies 
-     advantages 
+     advantages
+•Flexibility to adapt to changes.
+•Enhanced team collaboration and communication.
+•Improved customer satisfaction through regular updates and feedback.
+•Continuous delivery of valuable software. 
      disadvantages 
 waterfall methodologies 
      advantages 
