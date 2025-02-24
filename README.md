@@ -68,7 +68,7 @@ Defining the project scope is crucial for successful project planning because it
 2:Establishing what is included and excluded from the project.
 3:Aligning stakeholder expectations with project goals.
 4:Providing a basis for estimating costs, time, and resources required.
-
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scope of work to accomplish the project objectives and create the deliverables. It is useful because:
 •It helps in assigning tasks and responsibilities.
 •It breaks down complex projects into manageable sections.
 •It provides a clear path for tracking progress and performance.
